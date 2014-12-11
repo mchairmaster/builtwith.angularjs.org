@@ -3602,6 +3602,22 @@
         "local weather",
         "local weather forecast"
       ]
+    },
+	    {
+      "name": "DotaInventory",
+      "thumb": "dotainventory/thumb.png",
+      "desc": "Dedicated to Dota 2 cosmetic items. Merge friends items, browse items and trade!",
+      "url": "http://dotainventory.com/",
+      "submitter": "mchairmaster",
+      "submissionDate": "2014-12-11",
+      "tags": [
+        "Production",
+		"Entertainment",
+		"Steam API",
+		"No jQuery",
+		"Dota2",
+		"Ongoing"
+      ]
     }
 
   ]
